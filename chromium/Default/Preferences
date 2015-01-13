@@ -28,15 +28,15 @@
       "pepper_flash_settings_enabled": false,
       "show_home_button": false,
       "window_placement": {
-         "bottom": 1067,
-         "left": 13,
+         "bottom": 1068,
+         "left": 8,
          "maximized": false,
-         "right": 1907,
-         "top": 38,
-         "work_area_bottom": 1080,
-         "work_area_left": 0,
-         "work_area_right": 1920,
-         "work_area_top": 0
+         "right": 1141,
+         "top": 40,
+         "work_area_bottom": 1072,
+         "work_area_left": 8,
+         "work_area_right": 1912,
+         "work_area_top": 8
       }
    },
    "countryid_at_install": -1,
@@ -82,8 +82,8 @@
          "initialized": true
       },
       "autoupdate": {
-         "last_check": "13065463006266857",
-         "next_check": "13065481200762901"
+         "last_check": "13065662676658737",
+         "next_check": "13065679745439776"
       },
       "chrome_url_overrides": {
          "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
@@ -120,7 +120,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13065409239484836",
-            "lastpingday": "13065436799388392",
+            "lastpingday": "13065609598660528",
             "location": 1,
             "manifest": {
                "background": {
@@ -256,7 +256,7 @@
 
             },
             "install_time": "13065371305426943",
-            "lastpingday": "13065436799388392",
+            "lastpingday": "13065609598660528",
             "location": 1,
             "manifest": {
                "app": {
@@ -306,7 +306,7 @@
             },
             "content_settings": [  ],
             "creation_flags": 9,
-            "disable_reasons": 32,
+            "disable_reasons": 1,
             "events": [  ],
             "from_bookmark": false,
             "from_webstore": true,
@@ -320,8 +320,8 @@
 
             },
             "initial_keybindings_set": true,
-            "install_time": "13065401519421245",
-            "lastpingday": "13065436799388392",
+            "install_time": "13065657185180205",
+            "lastpingday": "13065609598417850",
             "location": 1,
             "manifest": {
                "background": {
@@ -439,7 +439,7 @@
 
             },
             "install_time": "13065371305495446",
-            "lastpingday": "13065436799388392",
+            "lastpingday": "13065609598660528",
             "location": 1,
             "manifest": {
                "app": {
@@ -479,7 +479,7 @@
          },
          "cieocpfnhhggbdalgoddbcbjlpbifogl": {
             "disable_reasons": 32,
-            "lastpingday": "13065436799388392",
+            "lastpingday": "13065609598660528",
             "state": 0
          },
          "dlppkpafhbajpcmmoheippocdidnckmm": {
@@ -505,7 +505,7 @@
 
             },
             "install_time": "13065371310634954",
-            "lastpingday": "13065436799388392",
+            "lastpingday": "13065609598660528",
             "location": 1,
             "manifest": {
                "app": {
@@ -610,7 +610,7 @@
 
             },
             "install_time": "13065371310581352",
-            "lastpingday": "13065436799388392",
+            "lastpingday": "13065609598660528",
             "location": 1,
             "manifest": {
                "app": {
@@ -723,7 +723,7 @@
 
             },
             "install_time": "13065371310682862",
-            "lastpingday": "13065436799388392",
+            "lastpingday": "13065609598660528",
             "location": 1,
             "manifest": {
                "app": {
@@ -781,7 +781,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13065371303373544",
-            "lastpingday": "13065436799388392",
+            "lastpingday": "13065609598660528",
             "location": 1,
             "manifest": {
                "author": {
@@ -827,7 +827,7 @@
          },
          "gekjjfhbnbhfgmnmkocnnfapjpdcpbok": {
             "disable_reasons": 32,
-            "lastpingday": "13065436799388392",
+            "lastpingday": "13065609598660528",
             "state": 0
          },
          "gighmmpiobklfepjocnamgkkbiglidom": {
@@ -856,8 +856,8 @@
 
             },
             "initial_keybindings_set": true,
-            "install_time": "13065371305349417",
-            "lastpingday": "13065436799388392",
+            "install_time": "13065657185379209",
+            "lastpingday": "13065609598660528",
             "location": 1,
             "manifest": {
                "background": {
@@ -904,92 +904,15 @@
                "options_page": "options/index.html",
                "permissions": [ "http://*/*", "https://*/*", "contextMenus", "tabs", "idle", "webRequest", "webRequestBlocking", "webNavigation", "alarms", "storage" ],
                "update_url": "https://clients2.google.com/service/update2/crx",
-               "version": "2.16.2",
+               "version": "2.16.3",
                "web_accessible_resources": [ "img/icon24.png", "jquery/css/images/ui-bg_inset-hard_100_fcfdfd_1x100.png", "jquery/css/images/ui-icons_056b93_256x240.png", "jquery/css/images/ui-icons_d8e7f3_256x240.png", "jquery/css/jquery-ui.custom.css", "jquery/css/override-page.css", "chrome_oauth_receiver.html" ]
             },
-            "path": "gighmmpiobklfepjocnamgkkbiglidom/2.16.2_0",
+            "path": "gighmmpiobklfepjocnamgkkbiglidom/2.16.3_0",
             "preferences": {
 
             },
             "regular_only_preferences": {
 
-            },
-            "state": 1,
-            "was_installed_by_default": false,
-            "was_installed_by_oem": false
-         },
-         "gkojfkhlekighikafcpjkiklfbnlmeio": {
-            "active_permissions": {
-               "api": [ "cookies", "proxy", "storage", "tabs", "webNavigation", "webRequest", "webRequestBlocking" ],
-               "explicit_host": [ "\u003Call_urls>", "chrome://favicon/*" ],
-               "manifest_permissions": [  ],
-               "scriptable_host": [ "*://*.hola.org/*" ]
-            },
-            "commands": {
-
-            },
-            "content_settings": [  ],
-            "creation_flags": 9,
-            "events": [  ],
-            "from_bookmark": false,
-            "from_webstore": true,
-            "granted_permissions": {
-               "api": [ "cookies", "proxy", "storage", "tabs", "webNavigation", "webRequest", "webRequestBlocking" ],
-               "explicit_host": [ "\u003Call_urls>", "chrome://favicon/*" ],
-               "manifest_permissions": [  ],
-               "scriptable_host": [ "*://*.hola.org/*" ]
-            },
-            "incognito_content_settings": [  ],
-            "incognito_preferences": {
-
-            },
-            "initial_keybindings_set": true,
-            "install_time": "13065371304060439",
-            "lastpingday": "13065436799388392",
-            "location": 1,
-            "manifest": {
-               "background": {
-                  "page": "js/be_bg.html"
-               },
-               "browser_action": {
-                  "default_icon": "js/img/icon19_gray.png",
-                  "default_popup": "js/be_popup.html",
-                  "default_title": "Hola Better Internet"
-               },
-               "content_scripts": [ {
-                  "js": [ "js/cs_hola.js" ],
-                  "matches": [ "*://*.hola.org/*" ],
-                  "run_at": "document_start"
-               } ],
-               "content_security_policy": "script-src 'self' 'unsafe-eval' https://client.hola.org https://cdnjs.cloudflare.com https://ajax.googleapis.com https://ssl.google-analytics.com https://d3vxrebhmlc47q.cloudfront.net https://client-cdn1.hola.org https://client-cdn2.hola.org https://client-cdn3.hola.org https://client-cdn4.hola.org https://client-cdn5.hola.org https://holaalt-holanetworksltd.netdna-ssl.com https://cdn4.hola.org https://cdn.jsdelivr.net https://clientalt-holanetworksltd.netdna-ssl.com; object-src 'self'",
-               "current_locale": "en_GB",
-               "default_locale": "en",
-               "description": "Access websites blocked in your country, company or school with Hola! Hola is free and easy to use!",
-               "homepage_url": "https://hola.org",
-               "icons": {
-                  "128": "img/icon128.png",
-                  "16": "img/icon16.png",
-                  "48": "img/icon48.png"
-               },
-               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC3YOSz7vDWj4WatsffMfOjv0bt8gMXFxKRPml/oRE7VmpRLT8b/vq7em+EZj3AKlj0fAOvrU1YjubIIMlTCZc/RKjNYNjxM4/+4RXGOKbQkM6wWNuQ7prP4Mu0IGBDiVs19dKSwkknAgco2/U4DA6kVXJ4hwedTLlfUsRSN5MKfQIDAQAB",
-               "manifest_version": 2,
-               "minimum_chrome_version": "22.0.1229.79",
-               "name": "Hola Better Internet",
-               "permissions": [ "proxy", "webRequest", "webRequestBlocking", "\u003Call_urls>", "storage", "tabs", "webNavigation", "cookies" ],
-               "update_url": "https://clients2.google.com/service/update2/crx",
-               "version": "1.6.150",
-               "web_accessible_resources": [ "icon.png", "version.json" ]
-            },
-            "path": "gkojfkhlekighikafcpjkiklfbnlmeio/1.6.150_0",
-            "preferences": {
-
-            },
-            "regular_only_preferences": {
-               "proxy": {
-                  "mode": "pac_script",
-                  "pac_mandatory": false,
-                  "pac_url": "data:application/x-ns-proxy-autoconfig;base64,ZnVuY3Rpb24gbW9kdWxlKCkKewpkZWZpbmUoZnVuY3Rpb24oKXsKdmFyIEUgPSB7fTsKLyogWFhYIGJhaGFhL3NoYWNoYXI6IGR1cGxpY2F0ZWQgaW4gZ2V0X3J1bGVzLmpzICovCkUuZGVmX2V4dCA9IFsnZ2lmJywgJ3BuZycsICdqcGcnLCAnbXAzJywgJ2pzJywgJ2NzcycsICdtcDQnLCAnd212JywgJ2ZsdicsCiAgICAnc3dmJywgJ21rdicsICdpY28nLCAnZjR2JywgJ2gyNjQnLCAnd2VicCddOwoKRS5kaXJlY3RfZmlyc3QgPSB7CiAgICBkaXJlY3Q6IHsnZ2lmJzogMSwgJ3BuZyc6IDEsICdqcGcnOiAxLCAnanMnOiAxLCAnY3NzJzogMSwgJ2ljbyc6IDEsCgknd2VicCc6IDF9LAogICAgZGlzY292ZXI6IHsnbXAzJzogMSwgJ21wNCc6IDEsICd3bXYnOiAxLCAnZmx2JzogMSwgJ3N3Zic6IDEsICdta3YnOiAxLAoJJ2Y0dic6IDEsICdoMjY0JzogMSwgJ3RzJzogMX0KfTsKCi8qIFhYWCBub3RlIHRoYXQgY29uc29sZS5sb2cgY2Fubm90IGJlIHVzZWQgaW4gdGhlIHBhYyBmaWxlIHNpbmNlIGl0IGNhdXNlcwogKiBJRTEwIHRvIHJlamVjdCB0aGUgcGFjIGZpbGUgKi8KdmFyIGdfcGFjX2VuZ2luZSA9IHt9OwoKZnVuY3Rpb24gcGFjX3JlZGlyKHVybCwgaG9zdCwgZG9fcmVkaXIpewogICAgaWYgKCFkb19yZWRpciB8fCAhZ19wYWNfZW5naW5lLnJlZGlyX2RpcmVjdCkKCXJldHVybiB7cHJveHk6IGZhbHNlLCBzdHI6ICdESVJFQ1QnfTsKICAgIHZhciBpcCA9IGRuc1Jlc29sdmUoaG9zdCk7CiAgICBpZiAoaXNJbk5ldChpcCwgJzEwLjAuMC4wJywgJzI1NS4wLjAuMCcpIHx8Cglpc0luTmV0KGlwLCAnMTcyLjE2LjAuMCcsICcyNTUuMjQwLjAuMCcpIHx8Cglpc0luTmV0KGlwLCAnMTkyLjE2OC4wLjAnLCAnMjU1LjI1NS4wLjAnKSB8fAoJaXNJbk5ldChpcCwgJzEyNy4wLjAuMCcsICcyNTUuMC4wLjAnKSkKICAgIHsKCXJldHVybiB7cHJveHk6IGZhbHNlLCBzdHI6ICdESVJFQ1QnfTsKICAgIH0KICAgIGlmIChpc1BsYWluSG9zdE5hbWUoaG9zdCkpCglyZXR1cm4ge3Byb3h5OiBmYWxzZSwgc3RyOiAnRElSRUNUJ307CiAgICB2YXIgbSA9IHVybC5tYXRjaCgvXi4rOihbMC05XSspXC8uKiQvKTsKICAgIGlmIChtICYmIG0ubGVuZ3RoPT0yICYmIG1bMV0hPT0nODAnKQogICAgICAgIHJldHVybiB7cHJveHk6IGZhbHNlLCBzdHI6ICdESVJFQ1QnfTsKICAgIGlmICh1cmwubWF0Y2goL15odHRwczouKiQvKSkKCXJldHVybiB7cHJveHk6IGZhbHNlLCBzdHI6ICdESVJFQ1QnfTsKICAgIHJldHVybiB7cHJveHk6IGZhbHNlLAoJc3RyOiAnUFJPWFkgMTI3LjAuMC4xOicrZ19wYWNfZW5naW5lLnJlZGlyX3BvcnQrJzsgRElSRUNUJ307Cn0KCi8qIGFycmF5cyBpbmRleE9mIGlzIG1pc3NpbmcgaW4gaWUxMC4gRGlkbid0IG1vZGlmeSB0byBwYXNzIGpzaGludCBub3QgdG8KICogY2hhbmdlIHRoZSBjb2RlIGZ1bmN0aW9uYWxpdHkuIFRha2VuIGZyb20KICogaHR0cHM6Ly9kZXZlbG9wZXIubW96aWxsYS5vcmcvZW4tVVMvZG9jcy9KYXZhU2NyaXB0L1JlZmVyZW5jZS9HbG9iYWxfT2JqZWN0cy9BcnJheS9pbmRleE9mICovCmlmICghQXJyYXkucHJvdG90eXBlLmluZGV4T2YpCnsKICAgIEFycmF5LnByb3RvdHlwZS5pbmRleE9mID0gZnVuY3Rpb24oZWxtLCBmcm9tX2luZGV4KXsKCS8qanNoaW50IGVxbnVsbDp0cnVlKi8KCWlmICh0aGlzPT1udWxsKQogICAgICAgICAgICB0aHJvdyBuZXcgVHlwZUVycm9yKCk7CiAgICAgICAgdmFyIHQgPSBPYmplY3QodGhpcyk7CiAgICAgICAgdmFyIGxlbiA9IHQubGVuZ3RofDA7CiAgICAgICAgaWYgKCFsZW4pCiAgICAgICAgICAgIHJldHVybiAtMTsKICAgICAgICB2YXIgbiA9IDA7CiAgICAgICAgaWYgKGFyZ3VtZW50cy5sZW5ndGggPiAxKQoJewogICAgICAgICAgICBuID0gTnVtYmVyKGZyb21faW5kZXgpOwogICAgICAgICAgICBpZiAobiAhPSBuKSAvKiBzaG9ydGN1dCBmb3IgdmVyaWZ5aW5nIGlmIGl0J3MgTmFOICovCiAgICAgICAgICAgICAgICBuID0gMDsKICAgICAgICAgICAgZWxzZSBpZiAobiE9PTAgJiYgbiAhPSBJbmZpbml0eSAmJiBuICE9IC1JbmZpbml0eSkKICAgICAgICAgICAgICAgIG4gPSAobiA+IDAgfHwgLTEpICogTWF0aC5mbG9vcihNYXRoLmFicyhuKSk7CiAgICAgICAgfQogICAgICAgIGlmIChuID49IGxlbikKICAgICAgICAgICAgcmV0dXJuIC0xOwogICAgICAgIHZhciBrID0gbiA+PSAwID8gbiA6IE1hdGgubWF4KGxlbiAtIE1hdGguYWJzKG4pLCAwKTsKICAgICAgICBmb3IgKDsgayA8IGxlbjsgaysrKQoJewogICAgICAgICAgICBpZiAodFtrXT09PWVsbSkKICAgICAgICAgICAgICAgIHJldHVybiBrOwogICAgICAgIH0KICAgICAgICByZXR1cm4gLTE7CiAgICB9Owp9CgpmdW5jdGlvbiBnZXRfZXh0KHVybCl7CiAgICB2YXIgZXh0ID0gJycsIGluZGV4ID0gdXJsLmluZGV4T2YoJz8nKTsKICAgIGlmIChpbmRleD49MCkKCXVybCA9IHVybC5zbGljZSgwLCBpbmRleCk7CiAgICB2YXIgZXh0X2luZGV4ID0gdXJsLmxhc3RJbmRleE9mKCcuJywgdXJsLmxlbmd0aCk7CiAgICB2YXIgX2V4dF9pbmRleCA9IHVybC5sYXN0SW5kZXhPZignLycsIHVybC5sZW5ndGgpOwogICAgaWYgKGV4dF9pbmRleD49MCAmJiBleHRfaW5kZXg+X2V4dF9pbmRleCkKCWV4dCA9IHVybC5zbGljZShleHRfaW5kZXgrMSk7CiAgICBlbHNlIGlmIChfZXh0X2luZGV4Pj0wKQoJZXh0ID0gdXJsLnNsaWNlKF9leHRfaW5kZXgrMSk7CiAgICByZXR1cm4gZXh0Owp9CgpmdW5jdGlvbiBpc19pcChob3N0KXsgcmV0dXJuIC9eXGQrXC5cZCtcLlxkK1wuXGQrJC8udGVzdChob3N0KTsgfQoKZnVuY3Rpb24gaGFuZGxlX3RoZW4odmFsdWUsIHVybCwgaG9zdCwgZG9fcmVkaXIsIGV4Y2VwdGlvbil7CiAgICBpZiAodmFsdWU9PSdESVJFQ1QnKQoJcmV0dXJuIHBhY19yZWRpcih1cmwsIGhvc3QsIGRvX3JlZGlyKTsKICAgIHZhciBuID0gdmFsdWUuc3BsaXQoJyAnKTsKICAgIGlmIChleGNlcHRpb24gJiYgbi5sZW5ndGg9PTEgJiYgblswXT09J1BST1hZJykKCXJldHVybiBudWxsOwogICAgaWYgKG4ubGVuZ3RoPDIpCglyZXR1cm4gcGFjX3JlZGlyKHVybCwgaG9zdCwgZG9fcmVkaXIpOwogICAgZWxzZSBpZiAoIXtQUk9YWTogMSwgU09DS1M6IDEsIFNPQ0tTNTogMX1bblswXV0pCglyZXR1cm4gcGFjX3JlZGlyKHVybCwgaG9zdCwgZG9fcmVkaXIpOwogICAgaWYgKGdfcGFjX2VuZ2luZS5leHQpCiAgICAgICAgcmV0dXJuIHtwcm94eTogdHJ1ZSwgc3RyOiB2YWx1ZX07CiAgICByZXR1cm4ge3Byb3h5OiB0cnVlLCBzdHI6ICdQUk9YWSAxMjcuMC4wLjE6JytnX3BhY19lbmdpbmUucHJveHlfcG9ydH07Cn0KCmZ1bmN0aW9uIGhvc3RfY2IobmFtZSwgcnVsZSwgY21kLCB1cmwsIGhvc3QsIGRvX3JlZGlyLCBvcHQpewogICAgaWYgKCFjbWRbJ2lmJ10pCiAgICB7CglpZiAoY21kLmRzdF9kbnMpCgkgICAgcmV0dXJuIGhhbmRsZV90aGVuKGNtZC50aGVuLCB1cmwsIGhvc3QsIGRvX3JlZGlyLCBvcHQuZXhjZXB0aW9uKTsKCWNtZFsnaWYnXSA9IFt7ZXh0OiAnZGVmLWV4dCcsIHR5cGU6ICdpbicsIHRoZW46ICdESVJFQ1QnfV07CiAgICB9CiAgICB2YXIgZXh0ID0gZ2V0X2V4dCh1cmwpOwogICAgZm9yICh2YXIgaT0wOyBpPGNtZFsnaWYnXS5sZW5ndGg7IGkrKykKICAgIHsKCXZhciBfaWYgPSBjbWRbJ2lmJ11baV07Cgl2YXIgYXJnID0gbnVsbCwgdmFsdWUgPSBudWxsOwoJdmFyIHR5cGUgPSAnPT0nOwoJaWYgKCFfaWYudGhlbikKCSAgICBjb250aW51ZTsKCWlmIChfaWYudHlwZSkKCSAgICB0eXBlID0gX2lmLnR5cGU7CglpZiAoX2lmLmhvc3QpCgl7CgkgICAgYXJnID0gaG9zdDsKCSAgICB2YWx1ZSA9IF9pZi5ob3N0OwoJfQoJZWxzZSBpZiAoX2lmLnVybCkKCXsKCSAgICBhcmcgPSB1cmw7CgkgICAgdmFsdWUgPSBfaWYudXJsOwoJfQoJZWxzZSBpZiAoX2lmLmV4dCkKCXsKCSAgICBhcmcgPSBleHQ7CgkgICAgdmFsdWUgPSBfaWYuZXh0OwoJICAgIGlmICh2YWx1ZT09J2RlZi1leHQnICYmICEodmFsdWUgPSBydWxlWydkZWYtZXh0J10pKQogICAgICAgICAgICAgICAgdmFsdWUgPSBFLmRlZl9leHQ7Cgl9CgllbHNlIGlmIChfaWYubWFpbikKCXsKCSAgICBhcmcgPSBvcHQuaXNfbWFpbjsKCSAgICB2YWx1ZSA9IF9pZi5tYWluOwoJfQoJZWxzZQoJICAgIGNvbnRpbnVlOwoJdmFyIGNtcDsKCXN3aXRjaCAodHlwZSkKCXsKCWNhc2UgJz09JzogY21wID0gYXJnPT12YWx1ZTsgYnJlYWs7CgljYXNlICchPSc6IGNtcCA9IGFyZyE9dmFsdWU7IGJyZWFrOwoJY2FzZSAnPX4nOiBjbXAgPSBhcmcubWF0Y2godmFsdWUpOyBicmVhazsKCWNhc2UgJyF+JzogY21wID0gIWFyZy5tYXRjaCh2YWx1ZSk7IGJyZWFrOwoJY2FzZSAnPWEnOgoJY2FzZSAnaW4nOiBjbXAgPSB2YWx1ZS5pbmRleE9mKGFyZykhPS0xOyBicmVhazsKCWNhc2UgJyFhJzoKCWNhc2UgJ25vdF9pbic6IGNtcCA9IHZhbHVlLmluZGV4T2YoYXJnKT09LTE7IGJyZWFrOwoJY2FzZSAnPW8nOiBjbXAgPSAhIXZhbHVlW2FyZ107IGJyZWFrOwoJY2FzZSAnIW8nOiBjbXAgPSAhdmFsdWVbYXJnXTsgYnJlYWs7CglkZWZhdWx0OiBjb250aW51ZTsKCX0KCWlmIChjbXApCgkgICAgcmV0dXJuIGhhbmRsZV90aGVuKF9pZi50aGVuLCB1cmwsIGhvc3QsIGRvX3JlZGlyLCBvcHQuZXhjZXB0aW9uKTsKCWlmIChfaWZbJ2Vsc2UnXSkKCXsKCSAgICByZXR1cm4gaGFuZGxlX3RoZW4oX2lmWydlbHNlJ10sIHVybCwgaG9zdCwgZG9fcmVkaXIsCgkJb3B0LmV4Y2VwdGlvbik7Cgl9CiAgICB9CiAgICByZXR1cm4gaGFuZGxlX3RoZW4oY21kLnRoZW4sIHVybCwgaG9zdCwgZG9fcmVkaXIsIG9wdC5leGNlcHRpb24pOwp9CgpmdW5jdGlvbiBpbmV0X2F0b24oc3RyKXsKICAgIHZhciBsYWRkciA9IDAsIGksIHBhcnRzID0gL14oXGQrKVwuKFxkKylcLihcZCspXC4oXGQrKSQvLmV4ZWMoc3RyKTsKICAgIGlmICghcGFydHMpCglyZXR1cm4gbnVsbDsKICAgIHBhcnRzLnNoaWZ0KCk7CiAgICBmb3IgKGk9MDsgaTxwYXJ0cy5sZW5ndGg7IGkrKykKICAgIHsKCWxhZGRyICo9IDI1NjsKICAgICAgICBsYWRkciArPSArcGFydHNbaV07CiAgICB9CiAgICByZXR1cm4gbGFkZHI7Cn0KCmZ1bmN0aW9uIHNldF9ydWxlKG5hbWUsIHJ1bGUsIGNtZCwgaG9zdHMpewogICAgdmFyIF9jaWYgPSBjbWRbJ2lmJ10sIGk7CiAgICBpZiAoX2NpZikKICAgIHsKCWZvciAoaT0wOyBpPF9jaWYubGVuZ3RoOyBpKyspCgl7CgkgICAgdmFyIF9pZiA9IF9jaWZbaV07CgkgICAgaWYgKF9pZi50eXBlPT0nPX4nIHx8IF9pZi50eXBlPT0nIX4nKQoJICAgIHsKCQlpZiAoX2lmLmhvc3QpCgkJICAgIF9pZi5ob3N0ID0gbmV3IFJlZ0V4cChfaWYuaG9zdCk7CgkJZWxzZSBpZiAoX2lmLnVybCkKCQkgICAgX2lmLnVybCA9IG5ldyBSZWdFeHAoX2lmLnVybCk7CgkJZWxzZSBpZiAoX2lmLmV4dCkKCQkgICAgX2lmLmV4dCA9IG5ldyBSZWdFeHAoX2lmLmV4dCk7CgkgICAgfQoJfQogICAgfQogICAgaWYgKCFjbWQuaG9zdHMpCiAgICB7Cglob3N0cy5ob3N0c1snKiddID0gZnVuY3Rpb24odXJsLCBob3N0LCBkb19yZWRpciwgb3B0KXsKCSAgICByZXR1cm4gaG9zdF9jYihuYW1lLCBydWxlLCBjbWQsIHVybCwgaG9zdCwgZG9fcmVkaXIsIG9wdCk7IH07CglyZXR1cm47CiAgICB9CiAgICBmb3IgKGk9MDsgaTxjbWQuaG9zdHMubGVuZ3RoOyBpKyspCiAgICB7Cgl2YXIgX2hvc3QgPSBjbWQuaG9zdHNbaV0sIG47CglpZiAoKG4gPSBfaG9zdC5tYXRjaCgvXigoXGR7MSwzfVwuKXszfVxkezEsM30pKFwvKFxkKykpPyQvKSkpCgl7CgkgICAgaWYgKCFjbWQuaXBzKQoJCWNtZC5pcHMgPSBbXTsKCSAgICB2YXIgYml0cyA9IDMyIC0gKG5bNF0gPyArbls0XSA6IDMyKTsKCSAgICBpZiAoYml0czwwKQoJCWJpdHMgPSAwOwoJICAgIHZhciBtYXNrID0gaW5ldF9hdG9uKG5bMV0pID4+PiBiaXRzIDw8IGJpdHM7CgkgICAgaG9zdHMuaXBzLnB1c2goe21hc2s6IG1hc2ssIGJpdHM6IGJpdHMsCgkJZnVuYzogZnVuY3Rpb24odXJsLCBob3N0LCBkb19yZWRpciwgZXhjZXB0aW9uKXsKCQkgICAgcmV0dXJuIGhvc3RfY2IobmFtZSwgcnVsZSwgY21kLCB1cmwsIGhvc3QsIGRvX3JlZGlyLAoJCQlleGNlcHRpb24pOwoJCX19KTsKCSAgICBjb250aW51ZTsKCX0KCWhvc3RzLmhvc3RzW19ob3N0XSA9IGZ1bmN0aW9uKHVybCwgaG9zdCwgZG9fcmVkaXIsIG9wdCl7CgkgICAgcmV0dXJuIGhvc3RfY2IobmFtZSwgcnVsZSwgY21kLCB1cmwsIGhvc3QsIGRvX3JlZGlyLCBvcHQpOyB9OwogICAgfQp9CgpmdW5jdGlvbiBwYXJzZV9jbWRzKG5hbWUsIHJ1bGUsIHJ1bGVzLCBob3N0cywgYnlfcnVsZXMpewogICAgdmFyIGNtZHMgPSBydWxlLmNtZHM7CiAgICBmb3IgKHZhciBpPTA7IGk8Y21kcy5sZW5ndGg7IGkrKykKICAgIHsKCXZhciBjbWQgPSBjbWRzW2ldOwoJaWYgKGNtZC5ydWxlKQoJewoJICAgIHZhciBfbmFtZSA9IGNtZC5ydWxlOwoJICAgIHJldHVybiBwYXJzZV9jbWRzKF9uYW1lLCBydWxlc1tfbmFtZV0sIHJ1bGVzLCBob3N0cyk7Cgl9CglpZiAoIWNtZC5ob3N0cyAmJiAhYnlfcnVsZXMpCgkgICAgY29udGludWU7CglpZiAoIWNtZC50aGVuKQoJICAgIGNvbnRpbnVlOwoJc2V0X3J1bGUobmFtZSwgcnVsZSwgY21kLCBob3N0cyk7CiAgICB9Cn0KCmZ1bmN0aW9uIGxvY2FsX2hvbGFfY2IodXJsKXsKICAgIHZhciBuID0gdXJsLm1hdGNoKC9eaHR0cDpcL1wvbG9jYWwuaG9sYVwvXD9wcm94eT0oW14mXSspJnNldD0oLiopJC8pOwogICAgLy8gWFhYIGFtaXI6IGlzIHRoaXMgaWYgcmVhbGx5IG5lY2Vzc2FyeT8KICAgIGlmICghbikKICAgIHsKICAgICAgICByZXR1cm4ge3Byb3h5OiAwLCBzdHI6ICdQUk9YWSAxMjcuMC4wLjE6MCd9OwogICAgfQogICAgaWYgKCFnX3BhY19lbmdpbmUubG9jYWxfcmVkaXIpCiAgICB7CiAgICAgICAgZ19wYWNfZW5naW5lLmxvY2FsX3JlZGlyID0ge307CiAgICAgICAgZ19wYWNfZW5naW5lLmxvY2FsX2NvdW50ZXIgPSAwOwogICAgfQogICAgZ19wYWNfZW5naW5lLmxvY2FsX3JlZGlyW2RlY29kZVVSSUNvbXBvbmVudChuWzJdKV0gPSB7CiAgICAgICAgdHM6IERhdGUubm93KCksCiAgICAgICAgcHJveHk6IGRlY29kZVVSSUNvbXBvbmVudChuWzFdKQogICAgfTsKICAgIHJldHVybiB7cHJveHk6IDAsIHN0cjogJ1BST1hZIDEyNy4wLjAuMTowJ307Cn0KCkUuaW5pdCA9IGZ1bmN0aW9uKGpzb24sIG9wdGlvbnMpewogICAgb3B0aW9ucyA9IG9wdGlvbnN8fHt9OwogICAgZ19wYWNfZW5naW5lID0gewoJaG9zdHM6IHsKCSAgICBob3N0czoge30sCgkgICAgaXBzOiBbXSwKCSAgICBob3N0c19jYWNoZToge30sCgkgICAgaG9zdHNfY291bnRlcjogMAoJfSwKCWV4Y2VwdGlvbnM6IHsKCSAgICBob3N0czoge30sCgkgICAgaXBzOiBbXSwKCSAgICBob3N0c19jYWNoZToge30sCgkgICAgaG9zdHNfY291bnRlcjogMAoJfSwKCWV4dDogb3B0aW9ucy5leHR8fDAsCglieV9ydWxlczogb3B0aW9ucy5ieV9ydWxlc3x8MCwKCWRvX3JlZGlyOiBvcHRpb25zLmRvX3JlZGlyfHwwLAoJcmVkaXJfZGlyZWN0OiBvcHRpb25zLnJlZGlyX2RpcmVjdD09PXVuZGVmaW5lZCB8fCBvcHRpb25zLnJlZGlyX2RpcmVjdCwKCXByb3h5X3BvcnQ6IG9wdGlvbnMucHJveHlfcG9ydHx8Njg1NywKCXJlZGlyX3BvcnQ6IG9wdGlvbnMucmVkaXJfcG9ydHx8Njg1MAogICAgfTsKICAgIGlmICghanNvbi51bmJsb2NrZXJfcnVsZXMpCglyZXR1cm4gLTE7CiAgICB2YXIgcnVsZXMgPSBqc29uLnVuYmxvY2tlcl9ydWxlcywgcnVsZSwgaTsKICAgIGlmICghZ19wYWNfZW5naW5lLmJ5X3J1bGVzKQogICAgewoJZm9yIChpIGluIHJ1bGVzKQoJewoJICAgIHJ1bGUgPSBydWxlc1tpXTsKCSAgICBpZiAocnVsZS5pbnRlcm5hbCB8fCAoZ19wYWNfZW5naW5lLmV4dCAmJiAhcnVsZS5lbmFibGVkKSkKCQljb250aW51ZTsKCSAgICBwYXJzZV9jbWRzKGksIHJ1bGUsIHJ1bGVzLCBnX3BhY19lbmdpbmUuaG9zdHMpOwoJfQogICAgfQogICAgZWxzZQogICAgewoJZ19wYWNfZW5naW5lLnJ1bGVzID0ge307Cglmb3IgKGkgaW4gcnVsZXMpCgl7CgkgICAgcnVsZSA9IHJ1bGVzW2ldOwoJICAgIGlmIChydWxlLmludGVybmFsIHx8IChnX3BhY19lbmdpbmUuZXh0ICYmICFydWxlLmVuYWJsZWQpKQoJCWNvbnRpbnVlOwoJICAgIGlmICghcnVsZS5yb290X3VybCkKCSAgICB7CgkJcGFyc2VfY21kcyhpLCBydWxlLCBydWxlcywgZ19wYWNfZW5naW5lLmhvc3RzKTsKCQljb250aW51ZTsKCSAgICB9CgkgICAgaWYgKCFydWxlLmNtZHMpCgkJY29udGludWU7CgkgICAgZ19wYWNfZW5naW5lLnJ1bGVzW2ldID0ge2hvc3RzOiB7fSwgaXBzOiBbXSwgaG9zdHNfY2FjaGU6IHt9LAoJCWhvc3RzX2NvdW50ZXI6IDB9OwoJICAgIHBhcnNlX2NtZHMoaSwgcnVsZSwgcnVsZXMsIGdfcGFjX2VuZ2luZS5ydWxlc1tpXSwgMSk7Cgl9CiAgICB9CiAgICBnX3BhY19lbmdpbmUuaG9zdHMuaG9zdHNbJ2xvY2FsLmhvbGEnXSA9IGxvY2FsX2hvbGFfY2I7CiAgICBnX3BhY19lbmdpbmUuaG9zdHMuaG9zdHNbJzEyNy4yNTUuMjU1LjI1NSddID0gZnVuY3Rpb24odXJsLCBob3N0KXsKCXJldHVybiB7cHJveHk6IDAsIHN0cjogJ1BST1hZICcraG9zdCsnOjAnfTsgfTsKICAgIGlmIChqc29uLnVuYmxvY2tlcl9nbG9iYWxzKQogICAgewoJcnVsZXMgPSBqc29uLnVuYmxvY2tlcl9nbG9iYWxzOwoJZm9yIChpIGluIHJ1bGVzKQoJewoJICAgIHJ1bGUgPSBydWxlc1tpXTsKCSAgICBwYXJzZV9jbWRzKGksIHJ1bGUsIHJ1bGVzLCBnX3BhY19lbmdpbmUuZXhjZXB0aW9ucyk7Cgl9CiAgICB9CiAgICByZXR1cm4gMDsKfTsKCmZ1bmN0aW9uIGZpbmRfcHJveHlfZm9yX3VybCh1cmwsIGhvc3QsIGhvc3RzLCBvcHQpewogICAgb3B0ID0gb3B0fHx7fTsKICAgIHZhciBkb19yZWRpciA9IGdfcGFjX2VuZ2luZS5kb19yZWRpcjsKICAgIGlmIChob3N0cy5ob3N0c19jYWNoZSkKICAgIHsKCXZhciBjID0gaG9zdHMuaG9zdHNfY2FjaGVbaG9zdF07CglpZiAoYyAmJiBjLmZ1bmMpCgkgICAgcmV0dXJuIGMuZnVuYyh1cmwsIGhvc3QsIGRvX3JlZGlyLCBvcHQpOwoJaWYgKGMpCgkgICAgcmV0dXJuIHBhY19yZWRpcih1cmwsIGhvc3QsIGRvX3JlZGlyKTsKICAgIH0KICAgIGlmIChob3N0cy5ob3N0c19jb3VudGVyPjUwMDApCiAgICB7Cglob3N0cy5ob3N0c19jb3VudGVyID0gMDsKCWhvc3RzLmhvc3RzX2NhY2hlID0ge307CiAgICB9CiAgICBpZiAoaXNfaXAoaG9zdCkpCiAgICB7Cgl2YXIgaXAgPSBpbmV0X2F0b24oaG9zdCk7Cgl2YXIgaXBzID0gaG9zdHMuaXBzOwoJZm9yICh2YXIgaT0wOyBpPGlwcy5sZW5ndGg7IGkrKykKCXsKCSAgICB2YXIgX2lwID0gaXBzW2ldOwoJICAgIGlmICgoaXAgPj4+IF9pcC5iaXRzIDw8IF9pcC5iaXRzKV5faXAubWFzaykKCQljb250aW51ZTsKCSAgICBob3N0cy5ob3N0c19jYWNoZVtob3N0XSA9IHtmdW5jOiBfaXAuZnVuY307CgkgICAgaG9zdHMuaG9zdHNfY291bnRlcisrOwoJICAgIHJldHVybiBfaXAuZnVuYyh1cmwsIGhvc3QsIGRvX3JlZGlyLCBvcHQpOwoJfQogICAgfQogICAgdmFyIGluZGV4ID0gLTE7CiAgICB3aGlsZSAodHJ1ZSkKICAgIHsKCXZhciBmdW5jID0gaG9zdHMuaG9zdHNbJyonXXx8aG9zdHMuaG9zdHNbaG9zdC5zdWJzdHIoaW5kZXgrMSldOwoJaWYgKGZ1bmMpCgl7CgkgICAgaG9zdHMuaG9zdHNfY2FjaGVbaG9zdF0gPSB7ZnVuYzogZnVuY307CgkgICAgaG9zdHMuaG9zdHNfY291bnRlcisrOwoJICAgIHJldHVybiBmdW5jKHVybCwgaG9zdCwgZG9fcmVkaXIsIG9wdCk7Cgl9CglpZiAoKGluZGV4ID0gaG9zdC5pbmRleE9mKCcuJywgaW5kZXgrMSkpPT0tMSkKCSAgICBicmVhazsKICAgIH0KICAgIGlmIChvcHQuZXhjZXB0aW9uKQoJcmV0dXJuIG51bGw7CiAgICBob3N0cy5ob3N0c19jYWNoZVtob3N0XSA9IHt9OwogICAgaG9zdHMuaG9zdHNfY291bnRlcisrOwogICAgcmV0dXJuIHBhY19yZWRpcih1cmwsIGhvc3QsIGRvX3JlZGlyKTsKfQoKRS5GaW5kUHJveHlGb3JVUkwgPSBmdW5jdGlvbih1cmwsIGhvc3QpewogICAgdmFyIHBhYyA9IGdfcGFjX2VuZ2luZSwgbG9jYWxzID0gcGFjLmxvY2FsX3JlZGlyLCByZXQ7CiAgICBpZiAobG9jYWxzICYmIGhvc3QhPSdsb2NhbC5ob2xhJykKICAgIHsKCXZhciB0aGVuID0gbG9jYWxzW3VybF07CglpZiAodGhlbikKCXsKCSAgICBkZWxldGUgbG9jYWxzW3VybF07CgkgICAgcmV0ID0gaGFuZGxlX3RoZW4odGhlbi5wcm94eSwgdXJsLCBob3N0LCBwYWMuZG9fcmVkaXIpOwoJfQoJcGFjLmxvY2FsX2NvdW50ZXIrKzsKCWlmICghKHBhYy5sb2NhbF9jb3VudGVyJTEwMDApKQoJewoJICAgIHZhciBjdXJfdHMgPSBEYXRlLm5vdygpOwoJICAgIGZvciAodmFyIGkgaW4gbG9jYWxzKQoJICAgIHsKCQl2YXIgbG9jYWwgPSBsb2NhbHNbaV07CgkJaWYgKGN1cl90cyAtIGxvY2FsLnRzID4gMTAwMDApCgkJICAgIGRlbGV0ZSBsb2NhbHNbaV07CgkgICAgfQoJICAgIHBhYy5sb2NhbF9jb3VudGVyID0gMDsKCX0KICAgIH0KICAgIGlmICghcmV0KQoJcmV0ID0gZmluZF9wcm94eV9mb3JfdXJsKHVybCwgaG9zdCwgcGFjLmhvc3RzKTsKICAgIGlmIChyZXQucHJveHkpCiAgICB7Cgl2YXIgZXggPSBmaW5kX3Byb3h5X2Zvcl91cmwodXJsLCBob3N0LCBwYWMuZXhjZXB0aW9ucywge2V4Y2VwdGlvbjogMX0pOwoJaWYgKGV4KQoJICAgIHJldCA9IGV4OwogICAgfQogICAgcmV0dXJuIHJldC5zdHI7Cn07CgpFLmZpbmRfcHJveHlfZm9yX3VybF9ydWxlID0gZnVuY3Rpb24ocnVsZSwgdXJsLCBob3N0LCBpc19tYWluLCBub19nbG9iYWwpewogICAgdmFyIHBhYyA9IGdfcGFjX2VuZ2luZSwgcmV0OwogICAgdmFyIHIgPSBwYWMucnVsZXMgJiYgcnVsZSA/IHBhYy5ydWxlc1tydWxlXSA6IHBhYy5ob3N0czsKICAgIGlmICghcikKCXJldHVybiAnRElSRUNUJzsKICAgIHJldCA9IGZpbmRfcHJveHlfZm9yX3VybCh1cmwsIGhvc3QsIHIsIHtpc19tYWluOiBpc19tYWlufSk7CiAgICBpZiAocmV0LnByb3h5ICYmICFub19nbG9iYWwpCiAgICB7Cgl2YXIgZXggPSBmaW5kX3Byb3h5X2Zvcl91cmwodXJsLCBob3N0LCBwYWMuZXhjZXB0aW9ucywge2V4Y2VwdGlvbjogMX0pOwoJaWYgKGV4KQoJICAgIHJldCA9IGV4OwogICAgfQogICAgcmV0dXJuIHJldC5zdHI7Cn07CgpFLmZpbmRfcHJveHlfZm9yX3VybF9leGNlcHRpb24gPSBmdW5jdGlvbih1cmwsIGhvc3QsIG9yaWcpewogICAgdmFyIHJldCA9IGZpbmRfcHJveHlfZm9yX3VybCh1cmwsIGhvc3QsIGdfcGFjX2VuZ2luZS5leGNlcHRpb25zLAoJe2V4Y2VwdGlvbjogMX0pOwogICAgcmV0dXJuIHJldCA/IHJldC5zdHIgOiBvcmlnOwp9OwoKLyogYXBpIHVzZWQgZm9yIHRlc3QuanMgKi8KRS5nX3BhY19lbmdpbmUgPSBmdW5jdGlvbigpeyByZXR1cm4gZ19wYWNfZW5naW5lOyB9OwpFLnBhY19yZWRpciA9IHBhY19yZWRpcjsKRS5nZXRfZXh0ID0gZ2V0X2V4dDsKRS5tb2R1bGUgPSBtb2R1bGU7CgpyZXR1cm4gRTsgfSk7Cgp9CnZhciBwYWNfZW5naW5lOwpmdW5jdGlvbiBkZWZpbmUoY2IpeyBwYWNfZW5naW5lID0gY2IoKTsgfQpmdW5jdGlvbiBGaW5kUHJveHlGb3JVUkwodXJsLCBob3N0KQp7CiAgICByZXR1cm4gcGFjX2VuZ2luZS5GaW5kUHJveHlGb3JVUkwodXJsLCBob3N0KTsKfQptb2R1bGUoKTsKcGFjX2VuZ2luZS5pbml0KHsidW5ibG9ja2VyX3J1bGVzIjp7fX0sIHsiZG9fcmVkaXIiOmZhbHNlLCJleHQiOjF9KTsK"
-               }
             },
             "state": 1,
             "was_installed_by_default": false,
@@ -1007,6 +930,7 @@
             },
             "content_settings": [  ],
             "creation_flags": 9,
+            "disable_reasons": 32,
             "events": [ "app.runtime.onLaunched", "notifications.onClicked" ],
             "from_bookmark": false,
             "from_webstore": true,
@@ -1021,7 +945,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13065371309150880",
-            "lastpingday": "13065436799388392",
+            "lastpingday": "13065609598660528",
             "location": 1,
             "manifest": {
                "app": {
@@ -1058,7 +982,7 @@
 
             },
             "running": false,
-            "state": 1,
+            "state": 0,
             "was_installed_by_default": false,
             "was_installed_by_oem": false
          },
@@ -1085,7 +1009,7 @@
 
             },
             "install_time": "13065371310453529",
-            "lastpingday": "13065436799388392",
+            "lastpingday": "13065609598660528",
             "location": 1,
             "manifest": {
                "app": {
@@ -1142,7 +1066,7 @@
 
             },
             "install_time": "13065371310508444",
-            "lastpingday": "13065436799388392",
+            "lastpingday": "13065609598660528",
             "location": 1,
             "manifest": {
                "app": {
@@ -1204,7 +1128,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13065371311112702",
-            "lastpingday": "13065436799388392",
+            "lastpingday": "13065609598660528",
             "location": 1,
             "manifest": {
                "author": "Deathamns",
@@ -1413,7 +1337,7 @@
 
             },
             "install_time": "13065371305549518",
-            "lastpingday": "13065436799388392",
+            "lastpingday": "13065609598660528",
             "location": 1,
             "manifest": {
                "app": {
@@ -1466,7 +1390,7 @@
 
             },
             "install_time": "13065371310834436",
-            "lastpingday": "13065436799388392",
+            "lastpingday": "13065609598660528",
             "launchType": 3,
             "location": 1,
             "manifest": {
@@ -1523,7 +1447,7 @@
 
             },
             "install_time": "13065371310769372",
-            "lastpingday": "13065436799388392",
+            "lastpingday": "13065609598660528",
             "location": 1,
             "manifest": {
                "app": {
@@ -1728,7 +1652,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13065310327310642",
-            "lastpingday": "13065436799388392",
+            "lastpingday": "13065609598660528",
             "location": 10,
             "manifest": {
                "app": {
@@ -1847,7 +1771,7 @@
 
             },
             "install_time": "13065409255463467",
-            "lastpingday": "13065436799388392",
+            "lastpingday": "13065609598660528",
             "location": 1,
             "manifest": {
                "app": {
@@ -1890,7 +1814,7 @@
          "id": "",
          "use_system": true
       },
-      "toolbar": [ "gighmmpiobklfepjocnamgkkbiglidom", "gkojfkhlekighikafcpjkiklfbnlmeio" ]
+      "toolbar": [ "gighmmpiobklfepjocnamgkkbiglidom" ]
    },
    "google": {
       "services": {
@@ -1922,7 +1846,7 @@
    "homepage": "https://mail.google.com/mail/?hl=en&shva=1#inbox",
    "homepage_is_newtabpage": true,
    "hotword": {
-      "previous_language": "en-US"
+      "previous_language": "en-GB"
    },
    "intl": {
       "accept_languages": "en-GB,en-US,en,de"
@@ -1952,10 +1876,6 @@
       }, {
          "invalidation-list": [  ],
          "name": "AUTOFILL_PROFILE",
-         "source": "1004"
-      }, {
-         "invalidation-list": [  ],
-         "name": "BOOKMARK",
          "source": "1004"
       }, {
          "invalidation-list": [  ],
@@ -2056,6 +1976,9 @@
    "net": {
       "http_server_properties": {
          "servers": {
+            "0-edge-chat.facebook.com:443": {
+               "supports_spdy": true
+            },
             "0.client-channel.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
@@ -2069,6 +1992,11 @@
                   "port": 443,
                   "probability": 0.02,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 39,
+                  "6": 4
                },
                "supports_spdy": true
             },
@@ -2086,6 +2014,20 @@
                   "protocol_str": "quic"
                },
                "supports_spdy": true
+            },
+            "3.bp.blogspot.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
+            "4.bp.blogspot.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
             },
             "4313493.fls.doubleclick.net:80": {
                "alternate_protocol": {
@@ -2113,8 +2055,8 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 32,
-                  "6": 14
+                  "5": 22,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -2123,6 +2065,11 @@
                   "port": 443,
                   "probability": 0.02,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 26,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -2141,7 +2088,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 58,
+                  "5": 68,
                   "6": 0
                },
                "supports_spdy": true
@@ -2157,6 +2104,14 @@
                "supports_spdy": true
             },
             "android.clients.google.com:443": {
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
+            "answers.yahoo.com:443": {
                "supports_spdy": true
             },
             "apis.google.com:443": {
@@ -2167,8 +2122,8 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 16,
-                  "6": 2
+                  "5": 33,
+                  "6": 4
                },
                "supports_spdy": true
             },
@@ -2178,10 +2133,39 @@
             "b.thumbs.redditmedia.com:443": {
                "supports_spdy": true
             },
+            "beap.adx.yahoo.com:443": {
+               "supports_spdy": true
+            },
+            "books.google.co.uk:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": true
+            },
+            "books.google.co.uk:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
+            "books.google.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": true
+            },
             "c.thumbs.redditmedia.com:443": {
                "supports_spdy": true
             },
             "c2.staticflickr.com:443": {
+               "supports_spdy": true
+            },
+            "c4.staticflickr.com:443": {
                "supports_spdy": true
             },
             "cache.gyazo.com:443": {
@@ -2221,7 +2205,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 28,
+                  "5": 32,
                   "6": 0
                },
                "supports_spdy": true
@@ -2246,7 +2230,9 @@
                   "protocol_str": "quic"
                },
                "settings": {
-                  "4": 100
+                  "4": 100,
+                  "5": 24,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -2258,6 +2244,11 @@
                }
             },
             "clients2.googleusercontent.com:443": {
+               "settings": {
+                  "4": 100,
+                  "5": 20,
+                  "6": 3
+               },
                "supports_spdy": true
             },
             "clients4.google.com:443": {
@@ -2268,7 +2259,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 9,
+                  "5": 49,
                   "6": 0
                },
                "supports_spdy": true
@@ -2278,11 +2269,6 @@
                   "port": 443,
                   "probability": 0.02,
                   "protocol_str": "quic"
-               },
-               "settings": {
-                  "4": 100,
-                  "5": 22,
-                  "6": 0
                },
                "supports_spdy": true
             },
@@ -2328,7 +2314,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 15,
+                  "5": 32,
                   "6": 0
                },
                "supports_spdy": true
@@ -2353,12 +2339,21 @@
             "easylist-downloads.adblockplus.org:443": {
                "supports_spdy": true
             },
+            "edge-chat.facebook.com:443": {
+               "supports_spdy": true
+            },
             "encrypted-tbn0.gstatic.com:443": {
                "alternate_protocol": {
                   "port": 443,
                   "probability": 0.02,
                   "protocol_str": "quic"
-               }
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 38,
+                  "6": 1
+               },
+               "supports_spdy": true
             },
             "encrypted-tbn1.gstatic.com:443": {
                "alternate_protocol": {
@@ -2372,7 +2367,13 @@
                   "port": 443,
                   "probability": 0.02,
                   "protocol_str": "quic"
-               }
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 18,
+                  "6": 1
+               },
+               "supports_spdy": true
             },
             "encrypted-tbn3.gstatic.com:443": {
                "alternate_protocol": {
@@ -2380,6 +2381,34 @@
                   "probability": 0.02,
                   "protocol_str": "quic"
                },
+               "settings": {
+                  "4": 100,
+                  "5": 42,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
+            "f.vimeocdn.com:443": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
+            "f.vimeocdn.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
+            "fbcdn-photos-f-a.akamaihd.net:443": {
+               "supports_spdy": true
+            },
+            "fbcdn-photos-g-a.akamaihd.net:443": {
+               "supports_spdy": true
+            },
+            "fbcdn-photos-h-a.akamaihd.net:443": {
                "supports_spdy": true
             },
             "fbcdn-profile-a.akamaihd.net:443": {
@@ -2389,11 +2418,34 @@
                },
                "supports_spdy": true
             },
+            "fbcdn-sphotos-a-a.akamaihd.net:443": {
+               "supports_spdy": true
+            },
+            "fbcdn-sphotos-b-a.akamaihd.net:443": {
+               "supports_spdy": true
+            },
+            "fbcdn-sphotos-c-a.akamaihd.net:443": {
+               "supports_spdy": true
+            },
+            "fbcdn-sphotos-d-a.akamaihd.net:443": {
+               "supports_spdy": true
+            },
+            "fbcdn-sphotos-e-a.akamaihd.net:443": {
+               "supports_spdy": true
+            },
+            "fbcdn-sphotos-f-a.akamaihd.net:443": {
+               "supports_spdy": true
+            },
+            "fbcdn-sphotos-g-a.akamaihd.net:443": {
+               "supports_spdy": true
+            },
+            "fbcdn-sphotos-h-a.akamaihd.net:443": {
+               "supports_spdy": true
+            },
+            "fbcdn-vthumb-a.akamaihd.net:443": {
+               "supports_spdy": true
+            },
             "fbstatic-a.akamaihd.net:443": {
-               "settings": {
-                  "4": 20,
-                  "7": 65536
-               },
                "supports_spdy": true
             },
             "fonts.googleapis.com:443": {
@@ -2417,7 +2469,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 50,
+                  "5": 32,
                   "6": 0
                },
                "supports_spdy": true
@@ -2439,8 +2491,8 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 32,
-                  "6": 0
+                  "5": 17,
+                  "6": 4
                },
                "supports_spdy": true
             },
@@ -2460,9 +2512,17 @@
                }
             },
             "gp3.googleusercontent.com:443": {
+               "settings": {
+                  "4": 100,
+                  "5": 34,
+                  "6": 1
+               },
                "supports_spdy": true
             },
             "gp4.googleusercontent.com:443": {
+               "supports_spdy": true
+            },
+            "gp5.googleusercontent.com:443": {
                "supports_spdy": true
             },
             "graph.facebook.com:443": {
@@ -2482,8 +2542,8 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 43,
-                  "6": 8
+                  "5": 37,
+                  "6": 6
                },
                "supports_spdy": true
             },
@@ -2492,6 +2552,11 @@
                   "port": 443,
                   "probability": 0.02,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 34,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -2514,6 +2579,21 @@
             "imasdk.googleapis.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
+            "img1.blogblog.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": true
+            },
+            "img2.blogblog.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
                   "probability": 0.02,
                   "protocol_str": "quic"
                }
@@ -2546,10 +2626,23 @@
             "licensebuttons.net:443": {
                "supports_spdy": true
             },
+            "lqo-thequestionsnetw.netdna-ssl.com:443": {
+               "supports_spdy": true
+            },
+            "m.memegen.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
+            "medium.com:443": {
+               "supports_spdy": true
+            },
             "oauth.googleusercontent.com:443": {
                "settings": {
                   "4": 100,
-                  "5": 37,
+                  "5": 33,
                   "6": 0
                },
                "supports_spdy": true
@@ -2583,7 +2676,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 36,
+                  "5": 50,
                   "6": 0
                },
                "supports_spdy": true
@@ -2603,7 +2696,7 @@
                   "protocol_str": "quic"
                }
             },
-            "r2---sn-cn3tc-ac5l.googlevideo.com:443": {
+            "r13---sn-ab5l6n7e.googlevideo.com:443": {
                "alternate_protocol": {
                   "port": 443,
                   "probability": 0.01,
@@ -2674,6 +2767,13 @@
             "secure.gravatar.com:443": {
                "supports_spdy": true
             },
+            "sprunge.us:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
             "ssl.google-analytics.com:443": {
                "alternate_protocol": {
                   "port": 443,
@@ -2695,7 +2795,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 22,
+                  "5": 24,
                   "6": 0
                },
                "supports_spdy": true
@@ -2708,6 +2808,11 @@
                   "port": 443,
                   "probability": 0.02,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -2763,6 +2868,21 @@
                   "protocol_str": "quic"
                }
             },
+            "www.blogblog.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
+            },
+            "www.blogger.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": true
+            },
             "www.facebook.com:443": {
                "supports_spdy": true
             },
@@ -2794,8 +2914,8 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 45,
-                  "6": 0
+                  "5": 43,
+                  "6": 3
                },
                "supports_spdy": true
             },
@@ -2804,6 +2924,11 @@
                   "port": 443,
                   "probability": 0.02,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 46,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -2834,6 +2959,11 @@
                   "port": 443,
                   "probability": 0.02,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -2870,7 +3000,19 @@
                   "probability": 0.02,
                   "protocol_str": "quic"
                },
+               "settings": {
+                  "4": 100,
+                  "5": 80,
+                  "6": 0
+               },
                "supports_spdy": true
+            },
+            "www.inerikaskitchen.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               }
             },
             "www.reddit.com:443": {
                "supports_spdy": true
@@ -2892,8 +3034,8 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 32,
-                  "6": 0
+                  "5": 15,
+                  "6": 18
                },
                "supports_spdy": true
             },
@@ -2903,11 +3045,6 @@
                   "probability": 0.02,
                   "protocol_str": "quic"
                },
-               "settings": {
-                  "4": 100,
-                  "5": 29,
-                  "6": 1
-               },
                "supports_spdy": true
             },
             "youtube.com:443": {
@@ -2915,6 +3052,11 @@
                   "port": 443,
                   "probability": 0.02,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 48,
+                  "6": 2
                },
                "supports_spdy": true
             },
@@ -2926,7 +3068,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 18,
+                  "5": 31,
                   "6": 0
                },
                "supports_spdy": true
@@ -3271,35 +3413,34 @@
          },
          "extensions": {
             "settings": {
-               "abjcfabbhafbcdfjoecdgepllmpfceif": "4870D7D413DB93D8A5556E527659FE543EC518BA421FB82009D76E032E579AD3",
+               "abjcfabbhafbcdfjoecdgepllmpfceif": "EEF1B8B394F08F8E5482FF2CE147A4F9098D5835FB2A76A34C6727BB66C1C819",
                "ahfgeienlihckogmohjhadlkjgocpleb": "B4D9D7561666E783A49FFA2548CCC689E8F7C695D17863A4E9E789FC42D62F8E",
-               "apdfllckaahabafndbhieahigkjlhalf": "CC51BBFDF2ED0EBBB9FC81CBAB9F919C9B9BBF5C26854CE8373C9A2A99907565",
-               "bepbmhgboaologfdajaanbcjmnhjmhfn": "726AE339328BCFDB764263D143EBCCC2327882EE7BB6EAE523822C529071B331",
-               "blpcfgokakmgnkcojhhkbfbldkacnbeo": "E041DDADD1E6419002B09005DAB0C8ED8A4A9426B8B2D4056778CC29F72B4BA5",
-               "cieocpfnhhggbdalgoddbcbjlpbifogl": "C198DFD0E798178F606E2DCD32256E4F619A37F50B9CD2902D125F2EC93FDA82",
-               "dlppkpafhbajpcmmoheippocdidnckmm": "D9E291110852E86868439298A32702B9B2A2B1EBEFB968AA944395F599BF10DA",
+               "apdfllckaahabafndbhieahigkjlhalf": "FAB7DA24A2972319678406802C74DE2D37753030EE2F800C29AB667F7EA41B48",
+               "bepbmhgboaologfdajaanbcjmnhjmhfn": "9E108B3422FC448805CEB56B90CA157E108778A94A1269045900F0329AC05F08",
+               "blpcfgokakmgnkcojhhkbfbldkacnbeo": "23940B115E78DADE66EEF4F40C79EE31C68AD5A21DF9F6D4960AACCB557B1BA8",
+               "cieocpfnhhggbdalgoddbcbjlpbifogl": "817DA4394BACCCB27CDDDCEB60D0F445BF2BF78B631D8A0C1F5AE8C194BC233C",
+               "dlppkpafhbajpcmmoheippocdidnckmm": "2BDDF09D37EF936B3DC9D650BE1D71AE9AEB92D37BE1DB8F99EB110DDB35DE11",
                "eemcgdkfndhakfknompkggombfjjjeno": "7FA1893D756571E98A7590FE36A6303575A011A8BDCE0E2A29FD95403DD70B2C",
-               "ejjicmeblgpmajnghnpcppodonldlgfn": "95B0500AF149D949E2BDE9CB269C161212692DFD1392C4ED6DD450D4B6D015D4",
+               "ejjicmeblgpmajnghnpcppodonldlgfn": "FBED826A05C42774E1F581026E018EA79D330DE98289237B9C8BB4A8A1B946B1",
                "ennkphjdgehloodpbhlhldgbnhmacadg": "E01668011019893BE4757455BF2F10459F2B8CC6B792CA1B76FEED3614513B69",
-               "fjliknjliaohjgjajlgolhijphojjdkc": "C2DB93BBFA93C8E481EB426BD3CF44ABD4E47A1BF13DB3EB7D25D959AE6E7596",
-               "gcbommkclmclpchllfjekcdonpmejbdp": "7E341B8B66DA0933196526199F5B03FCCCB46EB3A90090EA237417D4A4D62316",
-               "gekjjfhbnbhfgmnmkocnnfapjpdcpbok": "8C169FB0576B1085B3378B3784F0BE38D00BEB2D68F6A706E5E5132FC3BCFB88",
-               "gighmmpiobklfepjocnamgkkbiglidom": "1A563DB993319B6FD640B38DB1083FCF5543C09D0A22F494DE04841E76341409",
-               "gkojfkhlekighikafcpjkiklfbnlmeio": "F311CA0F0B478443E85A32534F4EBD24D670FFA0C7079AD340E15E68950C737D",
-               "hmjkmjkepdijhoojdojkdfohbdgmmhki": "B1618A0AA5A889759AF3EBBC8F3870B802F7BC95D9A927E1841FE55EFEE6107D",
-               "hnkkehjnlfplmdnallbjjdnokolhblgb": "658CDA2AB0CC2DB3AAD8D2E21120FB5BA2C12A59847D7BD4BD0652B935BB76C5",
-               "icppfcnhkcmnfdhfhphakoifcfokfdhg": "27626858A587F2DB81599BF8CD2FA6845BB1597BECE05EE5A0FC1E5ED3F46D0D",
-               "immpkjjlgappgfkkfieppnmlhakdmaab": "99579BFF0C3436AF7F02062BDB886E45D561AF56A9B7C5E618D82AEACEB29803",
+               "fjliknjliaohjgjajlgolhijphojjdkc": "7468FAA96FB5D6406C8F05EFC1B2AAE19E6E7D29F2D73D115311383606B4A8D3",
+               "gcbommkclmclpchllfjekcdonpmejbdp": "D8036FCAA1941E6464879ED2E74E185C0FEBD5EA40B4836E01E68DDAD9FE0BA6",
+               "gekjjfhbnbhfgmnmkocnnfapjpdcpbok": "C5BC00CAD9B92F6C382646995D1982B764BA2C8F8F0989FD2FCA935ABF2B297A",
+               "gighmmpiobklfepjocnamgkkbiglidom": "1B47358B0B3BFE06A8BC0B6471CAF13B6897AA860E5186F4803119BC72B32CF0",
+               "hmjkmjkepdijhoojdojkdfohbdgmmhki": "4ED8F9B11A29E06087FD996B431CD933E19416FF5B1EAB46EC9CB196BB375E4E",
+               "hnkkehjnlfplmdnallbjjdnokolhblgb": "5DDC8D6DFFB684A08DC7B08AE57A5C6B72FDE1EB74A14F570E923639D86C5D26",
+               "icppfcnhkcmnfdhfhphakoifcfokfdhg": "E43CE87D6D06AFD18A20B594C17EC0D2B2A44A03C85BFB2EC1A8A188BE74CC23",
+               "immpkjjlgappgfkkfieppnmlhakdmaab": "4FBB072A819A236727DBFD55AB26065E76F9E9743A31D1FB05149551E0F17F84",
                "kmendfapggjehodndflmmgagdbamhnfd": "D966117A25365B728BC9C160B924BA9F5D6B72949CA4D3E1BD9377D5E4CBA45D",
-               "komhbcfkdcgmcdoenjcjheifdiabikfi": "974DAC1B016DD93D15568C4CB5FAA187F8DA75B636E2355C45AD76F3B991DF32",
-               "lbfehkoinhhcknnbdgnnmjhiladcgbol": "69E2D55A5F67048289F49561D02E2EAF83A33C677F4381A9816A64044AD89762",
-               "lneaknkopdijkpnocmklfnjbeapigfbh": "97000EF98BCC20C69318363E01C5C2232FD89C46C474DFACFF25850F737D79DD",
+               "komhbcfkdcgmcdoenjcjheifdiabikfi": "121C3344AD02EAEB7950AD1101DBADE2178D37B3429D49565AF6ECC1E23950C1",
+               "lbfehkoinhhcknnbdgnnmjhiladcgbol": "1B17BABB52046C6CED00F24FB6D0B76B5BB24DB865F0D00A73F07276B60DDA07",
+               "lneaknkopdijkpnocmklfnjbeapigfbh": "B972C66CE43D956938D489A78CB1F75F48C1047281B244DFAC2A255461F2772D",
                "mfehgcgbbipciphmccgaenjidiccnmng": "B4360E5946FE15EC5B8F1B07B7E9B4BD6B68B1914189FF34C0FEDAC243BE96CD",
                "mfffpogegjflfpflabcdkioaeobkgjik": "A15370E54A136439BDAAB0BE77648F7A1751C17B7F68C186E3D32B18FE727974",
                "mgndgikekgjfcpckkfioiadnlibdjbkf": "4D9A7EE3181EC4F07E4A72E8C92746E28E328FF12F0E47598D3FF5A783A6034C",
-               "nmmhkkegccagdldgiimedpiccmgmieda": "8CB173B6D3EB77E4F9598D09FFB28B044C2C2B7E48DC6340CB0945B7902DB145",
+               "nmmhkkegccagdldgiimedpiccmgmieda": "4C90F391A1027AA57F62C600DDBF0F996254A4C15DDBEDCF13A95EF64FDDC428",
                "pafkbggdmjlpgkdkcbjmhmfcdpncadgh": "92D38567E242BE93E3F5E5D565CEA41910623240E823A39354773D2ED5F87A74",
-               "pdabfienifkbhoihedcgeogidfmibmhp": "04EE7BBDD3D1E5BBC11362B1A9EA93CCF534C809CC89431AD7DF0183787E4CFA"
+               "pdabfienifkbhoihedcgeogidfmibmhp": "5B3131039F54EF4A3D89E05A86256E95AD2848A6526651B36E462FE41E861A38"
             }
          },
          "google": {
@@ -3338,6 +3479,9 @@
    "reverse_autologin": {
       "enabled": false
    },
+   "savefile": {
+      "default_directory": "/home/fraun/walls"
+   },
    "session": {
       "restore_on_startup": 1,
       "restore_on_startup_migrated": true,
@@ -3366,7 +3510,7 @@
       "history_delete_directives": true,
       "keep_everything_synced": true,
       "keystore_encryption_bootstrap_token": "djEwh/JITSdr8RxtkHqFeIeTeY0tR83y8GrkgvfK/p8vt8ErR4XEMw+cVi1lY2RggVRBDNUWbQvWsbhDMNHCaKBVZC0KKMFLyOR7Zy+WGEOtY6I=",
-      "last_synced_time": "13065463286705690",
+      "last_synced_time": "13065665696255909",
       "managed_user_settings": true,
       "managed_user_shared_settings": true,
       "managed_users": true,

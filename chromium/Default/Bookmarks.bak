@@ -493,7 +493,7 @@
                   "stars.type": "2"
                },
                "name": "My subscriptions - YouTube",
-               "sync_transaction_version": "5",
+               "sync_transaction_version": "80",
                "type": "url",
                "url": "https://www.youtube.com/feed/subscriptions"
             }, {
@@ -529,7 +529,7 @@
                "type": "folder"
             } ],
             "date_added": "12987626754870641",
-            "date_modified": "13065371302634439",
+            "date_modified": "13065526181956229",
             "id": "147",
             "meta_info": {
                "stars.id": "ssf_a723cbe641555dea",
@@ -2098,13 +2098,13 @@
             "id": "172",
             "meta_info": {
                "stars.id": "ssc_4d7ba5b3398455d6",
-               "stars.imageData": "Cg5POWNkcG82SHZtb1duTRIzCitodHRwOi8vd3d3LmRlYmlhbi5vcmcvUGljcy9qb3lfd2ViX2xvZ28ucG5nEIIMGIIBGmIKW2h0dHA6Ly90My5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjUWtaMFRMeGNvaTJOTWFBbVFWeGRjRXZRNWU1dTVFc2gtMDhyMTRPTFJsM3FpYkR2RlAQwAIYYCIeCAEQwAIYYCC+LUIGEgSAAAAASgppbWFnZS9qcGVn",
+               "stars.imageData": "Cg5POWNkcG82SHZtb1duTRIzCitodHRwOi8vd3d3LmRlYmlhbi5vcmcvUGljcy9qb3lfd2ViX2xvZ28ucG5nEIIMGIIBGmIKW2h0dHA6Ly90My5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjUWtaMFRMeGNvaTJOTWFBbVFWeGRjRXZRNWU1dTVFc2gtMDhyMTRPTFJsM3FpYkR2RlAQwAIYYCIPCAEQwAIYYEIGEgSAAAAAKJfqsPKp1sYC",
                "stars.isSynced": "true",
                "stars.pageData": "Ig5YV1RQdXBsYkNSd0NtTQ==",
                "stars.type": "2"
             },
             "name": "Debian.org",
-            "sync_transaction_version": "2",
+            "sync_transaction_version": "70",
             "type": "url",
             "url": "http://www.debian.org/"
          }, {
@@ -2117,7 +2117,7 @@
                "stars.type": "2"
             },
             "name": "Latest News",
-            "sync_transaction_version": "3",
+            "sync_transaction_version": "68",
             "type": "url",
             "url": "http://www.debian.org/News/"
          }, {
@@ -2130,12 +2130,12 @@
                "stars.type": "2"
             },
             "name": "Help",
-            "sync_transaction_version": "4",
+            "sync_transaction_version": "69",
             "type": "url",
             "url": "http://www.debian.org/support"
          } ],
          "date_added": "13065370481160679",
-         "date_modified": "13065359216593417",
+         "date_modified": "13065657223584656",
          "id": "1",
          "name": "Bookmarks bar",
          "type": "folder"
@@ -3059,7 +3059,7 @@
          "name": "Other bookmarks",
          "type": "folder"
       },
-      "sync_transaction_version": "5",
+      "sync_transaction_version": "80",
       "synced": {
          "children": [ {
             "date_added": "13063732538510292",

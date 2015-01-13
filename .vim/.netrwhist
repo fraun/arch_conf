@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/fraun/.oh-my-zsh/themes'
+let g:netrw_dirhist_2='/home/fraun/.oh-my-zsh'
+let g:netrw_dirhist_3='/home/fraun'
+let g:netrw_dirhist_4='/home'
+let g:netrw_dirhist_5='/'
+let g:netrw_dirhist_6='/home/fraun/.cache'

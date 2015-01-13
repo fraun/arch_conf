@@ -1,0 +1,56 @@
+URxvt.background: [100]#181818
+URxvt.foreground: [100]#ebeac5
+URxvt.scrollBar: false
+URxvt*termName: rxvt-unicode
+
+
+
+!urxvt*font: xft:DejaVu Sans Mono:style=Book:antialias=false:size=8, \
+ !           xft:WenQuanYi Bitmap Song:size=8, \
+  !          xft:FreeSerif:style=Regular, \
+   !         xft:unifont:style=Medium:antialias=false
+
+
+
+
+
+
+!URxvt.font: xft:monaco:size=9
+URxvt.font: xft:terminus:size=10
+URxvt.urlLauncher : firefox
+URxvt*color0: #917649
+URxvt*color1: #fdc963
+URxvt*color2: #dbb574
+URxvt*color3: #695532
+URxvt*color4: #544119
+URxvt*color5: #917649
+URxvt*color6: #fdc963
+URxvt*color7: #dbb574
+URxvt*color8: #695532
+URxvt*color9: #544119
+URxvt*color10: #917649
+URxvt*color11: #fdc963
+URxvt*color12: #dbb574
+URxvt*color13: #695532
+URxvt*color14: #544119
+URxvt*color15: #917649
+!------------------------------------------------------------------------------
+! u r x v t
+URxvt.urgentOnBell:         true
+URxvt*geometry:         112x22  
+!URxvt*font:            xft:termsyn:size=9
+URxvt.perl-ext-common: default,matcher
+!URxvt.url-launcher: chromium
+URxvt.matcher.button: 1
+!URxvt*scrollBar:        false
+!URxvt*scrollBar_right:        true
+!URxvt*scrollColor:        #000000
+!URxvt*depth: 32
+!URxvt*background: rgba:0000/0000/0200/c800
+!URxvt.background: rgba:1111/1111/1111/dddd
+!URxvt.background: [100]#170F0D
+
+
+!URxvt*eightBitInput:   false
+!URxvt*metaSendsEscape: true
+!URxvt*modifier: alt

@@ -98,7 +98,10 @@ super + F10
 
 super + F9
         mpc toggle
-
+super + F8
+        mpc next
+super + F7
+        mpc prev
 # make sxhkd reload its configuration files:
 super + Escape
 	pkill -USR1 -x sxhkd
