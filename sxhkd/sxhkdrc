@@ -1,90 +1,80 @@
-#
-# bspwm hotkeys
-#
-
-super + alt + Escape
-	bspc quit
-
-super + w
-	bspc window -c
-
-super + t
-	bspc desktop -l next
-
-super + b
-	bspc desktop -B
-
-super + {s,f}
-	bspc window -t {floating,fullscreen}
-
-super + {grave,Tab}
-	bspc {window,desktop} -f last
-
-super + apostrophe
-	bspc window -s last
-
-super + {o,i}
-	bspc control --record-history off; \
-	bspc window {older,newer} -f; \
-	bspc control --record-history on
-
-super + y
-	bspc window -w last.manual
-
-super + m
-	bspc window -s biggest
-
-super + {_,shift + }{h,j,k,l}
-	bspc window -{f,s} {left,down,up,right}
-
-super + {_,shift + }c
-	bspc window -f {next,prev}
-
-super + {comma,period}
-	bspc desktop -C {backward,forward}
-
-super + bracket{left,right}
-	bspc desktop -f {prev,next}
-
-super + ctrl + {h,j,k,l}
-	bspc window -p {left,down,up,right}
-
-super + ctrl + {_,shift + }space
-	bspc {window -p cancel,desktop -c}
-
-super + alt + {h,j,k,l}
-	bspc window -e {left -10,down +10,up -10,right +10}
-
-super + alt + shift + {h,j,k,l}
-	bspc window -e {right -10,up +10,down -10,left +10}
-
-super + ctrl + {1-9}
-	bspc window -r 0.{1-9}
-
-super + {_,shift + }{1-9,0}
-	bspc {desktop -f,window -d} ^{1-9,10}
-
-~button1
-	bspc pointer -g focus
-
-super + button{1-3}
-	bspc pointer -g {move,resize_side,resize_corner}
-
-super + !button{1-3}
-	bspc pointer -t %i %i
-
-super + @button{1-3}
-	bspc pointer -u
-
-#
-# wm independent hotkeys
-#
-
-super + Return
+alt + Return
 	urxvt
 
-super + space
-	dmenu_run
+# cycle between windows using wmutils
+alt + Tab
+    lsw | sed "/$(pfw)/d;1p;d" | xargs wtf; chwso -r $(pfw)
+
+
+alt + w
+    pfw | xargs killw
+
+# move/resize windows usong the mouse via no-wm
+
+alt + c
+    ./.config/wmutil_scr/centre
+
+alt + f
+    ./.config/contrib/fullscreen.sh $(pfw)
+
+~button1
+    wtf
+
+#@alt + button1
+#    x-move-resize
+#    wtf
+
+super + Down
+  wmv 0 10 $(pfw)
+super + Up
+  wmv 0 -10 $(pfw)
+super + Right
+  wmv 10 0 $(pfw)
+super + Left
+  wmv -10 0 $(pfw)
+
+super + l
+  wrs 10 0 $(pfw)
+super + h
+  wrs -10 0 $(pfw)
+super + j
+  wrs 0 -10 $(pfw)
+super + k
+  wrs 0 10 $(pfw)
+
+super +shift + Down
+  wmv 0 50 $(pfw)
+super +shift + Up
+  wmv 0 -50 $(pfw)
+super +shift + Right
+  wmv 50 0 $(pfw)
+super +shift + Left
+  wmv -50 0 $(pfw)
+
+super +shift + l
+  wrs 50 0 $(pfw)
+super +shift + h
+  wrs -50 0 $(pfw)
+super +shift + j
+  wrs 0 -50 $(pfw)
+super + shift + k
+  wrs 0 50 $(pfw) 
+
+
+super + {F1,F2,F3,F4,F5}
+  ./.config/wmutil_scr/groaw -t {1,2,3,4,5}
+
+super + alt + {F1,F2,F3,F4,F5}
+  ./.config/wmutil_scr/groaw -o {1,2,3,4,5}
+
+super + shift + {F1,F2,F3,F4,F5}
+  ./.config/wmutil_scr/groaw -d all; \
+  ./.config/wmutil_scr/groaw  -a {1,2,3,4,5}
+
+super + BackSpace
+ ./.config/wmutil_scr/groaw -d all
+
+
 
 
 super + F12

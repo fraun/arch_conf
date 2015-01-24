@@ -41,7 +41,7 @@ URxvt*geometry:         112x22
 !URxvt*font:            xft:termsyn:size=9
 URxvt.perl-ext-common: default,matcher
 !URxvt.url-launcher: chromium
-URxvt.matcher.button: 1
+!URxvt.matcher.button: 1
 !URxvt*scrollBar:        false
 !URxvt*scrollBar_right:        true
 !URxvt*scrollColor:        #000000

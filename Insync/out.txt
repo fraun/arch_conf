@@ -819,3 +819,63 @@ insync.py: Fatal IO error: client killed
 ERROR:root:Could not find any typelib for Notify
 which: no kreadconfig in (/usr/lib/insync:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl)
 No systemtrayicon available
+ERROR:root:Could not find any typelib for Notify
+No systemtrayicon available
+ERROR:root:Could not find any typelib for Notify
+No systemtrayicon available
+ERROR:root:Cannot initialize notifications.
+ERROR:root:Could not find any typelib for Notify
+No systemtrayicon available
+ERROR:root:Could not find any typelib for Notify
+No systemtrayicon available
+ERROR:root:Cannot initialize notifications.
+ERROR:root:Could not find any typelib for Notify
+No systemtrayicon available
+ERROR:root:Could not find any typelib for Notify
+No systemtrayicon available
+ERROR:root:Cannot initialize notifications.
+ERROR:root:Could not find any typelib for Notify
+No systemtrayicon available
+ERROR:root:Could not find any typelib for Notify
+No systemtrayicon available
+ERROR:root:Could not find any typelib for Notify
+No systemtrayicon available
+insync.py: Fatal IO error: client killed
+insync.py: Fatal IO error: client killed
+insync.py: Fatal IO error: client killed
+ERROR:root:Could not find any typelib for Notify
+No systemtrayicon available
+insync.py: Fatal IO error: client killed
+ERROR:root:Could not find any typelib for Notify
+No systemtrayicon available
+insync.py: Fatal IO error: client killed
+ERROR:root:Could not find any typelib for Notify
+No systemtrayicon available
+insync.py: Fatal IO error: client killed
+ERROR:root:Could not find any typelib for Notify
+No systemtrayicon available
+insync.py: Fatal IO error: client killed
+insync.py: cannot connect to X server :0
+insync.py: cannot connect to X server :0
+insync.py: cannot connect to X server :0
+ERROR:root:Could not find any typelib for Notify
+No systemtrayicon available
+insync.py: Fatal IO error: client killed
+ERROR:root:Could not find any typelib for Notify
+No systemtrayicon available
+insync.py: Fatal IO error: client killed
+insync.py: cannot connect to X server :0
+insync.py: cannot connect to X server :0
+insync.py: cannot connect to X server :0
+ERROR:root:Could not find any typelib for Notify
+No systemtrayicon available
+insync.py: Fatal IO error: client killed
+ERROR:root:Could not find any typelib for Notify
+No systemtrayicon available
+insync.py: Fatal IO error: client killed
+ERROR:root:Could not find any typelib for Notify
+No systemtrayicon available
+insync.py: Fatal IO error: client killed
+ERROR:root:Could not find any typelib for Notify
+No systemtrayicon available
+insync.py: Fatal IO error: client killed

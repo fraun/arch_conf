@@ -13,16 +13,16 @@ ignore xclock
 
 # behavior, look & feel
 borderwidth             5 
-color inactiveborder    "#222222"
-color activeborder      "#222222"
-color font              "#ffffff"
-color menubg            "#222222"
-color selfont           "#ffffff"
-color menufg            "#4c4c4c"
+color inactiveborder    "#181818"
+color activeborder      "#917649"
+color font              "#ebeac5"
+color menubg            "#181818"
+color selfont           "#ebeac5"
+color menufg            "#917649"
 color groupborder       "#526f33"
 color ungroupborder     "#8b3e2f"
 
-gap                     8 8 8 8
+gap                     36 8 8 8
 moveamount              2
 snapdist                10
 
@@ -91,18 +91,20 @@ bind MS-F9          grouponly9
 bind CM-r       restart
 bind CM-q       quit
 
-bind 4-F12 mpc next
-bind 4-F11 mpc prev
-bind 4-F10 mpc toggle
-bind 4S-F12 amixer set Master 2%+
-bind 4S-F11 amixer set Master 2%-
-bind 4S-F10 amixer set Master 100%-
+bind CM4-s pm-suspend
+
+bind F12 mpc next
+bind F11 mpc prev
+bind F10 mpc toggle
+bind 4-F12 amixer set Master 2%+
+bind 4-F11 amixer set Master 2%-
+bind 4-F10 amixer set Master 100%-
 # Applications
 bind 4-exclam   exec
 bind 4-colon    ssh
 bind 4S-slash   search
 
 
-bind M-return unbind
+#bind M-return unbind
 
 # Mousebindings

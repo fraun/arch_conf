@@ -1,7 +1,6 @@
 
 
 
-
 setxkbmap -layout gb
 #xset +fp /usr/share/fonts/local
 #xset fp rehash
@@ -12,9 +11,21 @@ xrdb -merge ~/.Xresources
 
 insync start
 
-redshift
+#redshift &
 
 
-cwm
-#sxhkd &
+#cwm
+
+#exec x-focus-manager &
+sxhkd &
+
+
+
+rootwin=$(lsw -r)
+#exec urxvt 
+swm 
+
+
+
+
 #exec bspwm
